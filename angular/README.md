@@ -11,8 +11,6 @@ change the directory in vs code to cd sbi_bank
 
 install the nodemodules , bootsrtap & react , reacter-router-dom .
 
-add shopping file to spring tool suite
-
 create a database named bank in mysql workbench
 
 npm install
